@@ -1,6 +1,6 @@
-module github.com/phoenixtheory/go-orca
+module github.com/3x2theory/go-orca
 
-go 1.16
+go 1.17
 
 require (
 	github.com/emirpasic/gods v1.12.0
